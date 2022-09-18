@@ -46,6 +46,7 @@ class HomeScreen extends StatelessWidget {
               width: MediaQuery.of(context).size.width * 0.75,
               height: MediaQuery.of(context).size.height * 0.06,
               text: "Aplicativo",
+
               fontColor: Colors.black,
               fontSize: 20,
             ),
